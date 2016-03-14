@@ -18,7 +18,7 @@ Von Anfang an beim OSD als Koordinator, OSD Teilnehmer und Kämpfer gegen das Da
 Der Quoten-Nerd des Teams. Er stürzt sich auf alles was mit Computern und OSD/MyOSD zu tun hat auch wenn er sich dafür nächtelang im Keller einsperrt. Er ist der Highländer im Feldzug gegen das Datenchaos.  
 
 ### Julia Busch
-Nach dem sie das Citizen Science Projekt [Citclops](http://www.citclops.eu)/[EyeOnWater](http://eyeonwater.org/color/welcome.php) gross gemacht hat ist Julia nun bei uns im Team und hilft uns MyOSD in diesem Jahr noch besser zu machen.
+Nach dem sie das Citizen Science Projekt [Citclops](http://www.citclops.eu)/[EyeOnWater](http://eyeonwater.org/color/welcome.php) groß gemacht hat ist Julia nun bei uns im Team und hilft uns MyOSD in diesem Jahr noch besser zu machen.
 
 ### Sandra Nowack
 Ist quasi die Team Mama. Wenn sie mal nicht weiß wo was liegt, oder wen man am besten fragt um etwas zu bekommen, schauen wir alle recht alt aus.
