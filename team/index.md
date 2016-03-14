@@ -9,7 +9,7 @@ published: true
 
 
 ### Prof. Dr. Frank Oliver Glöckner
-Kopf der Bioinformatik und Genomik Gruppe am [Max Planck Institut für Marine Mikrobiologie in Bremen](http://www.mpi-bremen.de) und der [Jacobs University](http://www.jacobs-university.de). Als Projektleiter des [Micro B3 Projektes](https://www.microb3.eu) ist er einer der Gründer, Koordinator und größten Unterstützer des [OSD](https://www.oceansamplingday.org) und MyOSD Projektes. 
+Kopf der Bioinformatik und Genomik Gruppe am [Max Planck Institut für Marine Mikrobiologie in Bremen](http://www.mpi-bremen.de) und der [Jacobs University](http://www.jacobs-university.de). Als Projektleiter des [Micro B3 Projektes](https://www.microb3.eu) ist er einer der Gründer, Koordinator und größten Unterstützer des [OSD](http://www.oceansamplingday.org) und MyOSD Projektes. 
 
 ### Julia Schnetzer
 Von Anfang an beim OSD als Koordinator, OSD Teilnehmer und Kämpfer gegen das Datenchaos dabei. Ihr größtes Baby war aber letztendlich das MyOSD Projekt. 
